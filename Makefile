@@ -1,5 +1,5 @@
 env:
-	virtualen venv
+	virtualenv venv
 
 install:
 	pip install -r requirements.txt
